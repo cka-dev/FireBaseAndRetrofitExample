@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407823886037",
+    "project_id": "testapis-320804",
+    "storage_bucket": "testapis-320804.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407823886037:android:96c8193128ca5b155be45c",
+        "android_client_info": {
+          "package_name": "com.example.retrofitexampleapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407823886037-j98prdh0nluodhrjt2jm5qtcem33pmkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyC9vAwYn1YdtHOVM6i9LbtOzVYfketnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407823886037-j98prdh0nluodhrjt2jm5qtcem33pmkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
